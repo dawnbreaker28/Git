@@ -2,7 +2,7 @@ git rebase -i 交互式模式
 git cherry-pick 在当前分支下获得选中节点
 git commit -m "commit 评论"
 git commit --amend     edit the previous commit’s message without altering its snapshot.
-
+git tag 名字 节点 如 v1.0 A1
 # Edit hello.py and main.py
 git add hello.py
 git commit 
