@@ -1,0 +1,3 @@
+git rebase -i 交互式模式
+git cherry-pick 在当前分支下获得选中节点
+git commit -m "commit 评论"
